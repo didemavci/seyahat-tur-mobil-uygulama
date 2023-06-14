@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">mobilodev</string>
+    <string name="giris">    Yola Çık Yol Açık</string>
+    <string name="todo">todo</string>
+    <string name="TODO">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="TOD">TODO</string>
+    <string name="TO">TODO</string>
+    <string name="girisyazi">TextView</string>
+    <string name="girisekran">TODO</string>
+    <string name="kesfet">KEŞFET!</string>
+    <string name="textview3">TextView</string>
+    <string name="giristodo">TODO</string>
+    <string name="girisicon">TODO</string>
+    <string name="Sifre">TextView</string>
+    <string name="hosgeldiniz">Merhaba</string>
+    <string name="hg2">Hoşgeldiniz 👋</string>
+    <string name="KullaniciIsim">Kullanici İsmi</string>
+
+    <string name="sifre2">Şifre</string>
+    <string name="GirisYap">Giriş Yap</string>
+    <string name="girisresim">TODO</string>
+    <string name="kullaniciicon">TODO</string>
+    <string name="kisim">Oğuzhan Kıvrak</string>
+    <string name="Hosgeldiniz">Merhaba 👋</string>
+    <string name="iconbell">TODO</string>
+    <string name="kullaniciresim">TODO</string>
+
+
+    <string name="kullanicifoto">TODO</string>
+    <string name="kullanicifoto2">TODO</string>
+
+    <string name="textview2">TextView</string>
+    <string name="arkaplan">TODO</string>
+    <string name="kullaniciicon2">TODO</string>
+    <string name="hgtext">Merhaba 👋</string>
+    <string name="hgtext2">Merhaba 👋</string>
+    <string name="bellicon">TODO</string>
+    <string name="arkaplan2">TODO</string>
+    <string name="arkayazi">
+        Keşfe Başla!
+
+        Seyahat Fırsatlarından Yararlanın</string>
+    <string name="anasayfayazi">Seyahat Planları Ve Turlar</string>
+    <string name="turbox"></string>
+    <string name="turfoto">TODO</string>
+    <string name="turbuton">Kapadokya Turu</string>
+    <string name="turfoto2">TODO</string>
+    <string name="turbtn2">Tekne Turu</string>
+    <string name="turbtn3">İzmir Turu</string>
+    <string name="turbtn4">Karadeniz Turu</string>
+    <string name="anasayfaimg">TODO</string>
+    <string name="bicon">TODO</string>
+    <string name="imagev">TODO</string>
+    <string name="isimtext">Kapadaokya Turu</string>
+    <string name="tfoto">TODO</string>
+    <string name="tyazi">Ziyaret Edilecek Yerler
+Çömlek Atölyesi
+Dervent Vadisi
+Paşabağ
+Ihlara Vadisi
+Yeraltı Şehri
+Çavuşin
+Göreme Açık Hava Müzesi
+</string>
+    <string name="rbuton">Rezervasyon Yap</string>
+    <string name="iconz">TODO</string>
+    <string name="bilgitext">  23-26 Haziran 2023
+        4.799,00 TL
+    </string>
+    <string name="img">TODO</string>
+    <string name="turimg">TODO</string>
+    <string name="isimi">Tekne Turu</string>
+    <string name="turbilgi">
+        Bodrum Türkiye deki en popüler tekne turlarına ev sahipliği yapmaktadır.Aynı gün içinde Egenin en temiz sularında 5 değişik koyda yüzme, şnorkel ve güneşlenme tekne turlarımızda mümkün.</string>
+    <string name="foto">TODO</string>
+    <string name="bilgi">18 Haziran 2023 550TL</string>
+    <string name="butont">Rezeryazyon Yap</string>
+    <string name="txt">TextView</string>
+    <string name="backimg">TODO</string>
+    <string name="bagpng">TODO</string>
+    <string name="bpng">TODO</string>
+    <string name="txtb">Merhaba 👋</string>
+    <string name="adtext">Ad Soyad:</string>
+    <string name="teltext">Telefon Numarası:</string>
+    <string name="txtext">TC Numarası:</string>
+    <string name="mailtext">Mail Adresi:</string>
+    <string name="adrestext">Adres:</string>
+    <string name="cinstext">Cinsiyet:</string>
+    <string name="txtt">TextView</string>
+    <string name="cinsr">Kadın</string>
+    <string name="cinsr2">erkek</string>
+    <string name="kayitbtn">Rezervasyon Yap</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+
+</resources>
